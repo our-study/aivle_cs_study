@@ -1,7 +1,7 @@
 # 꿈꾸는 개발자의 스터디
 
-[![Since](https://img.shields.io/badge/since-2024.09.18-333333.svg)]([https://github.com/our-study/able_coding_master](https://github.com/our-study/make_cs_possible))
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://github.com/our-study/able_coding_master](https://github.com/our-study/make_cs_possible)/blob/main/LICENSE)
+[![Since](https://img.shields.io/badge/since-2024.09.18-333333.svg)](https://github.com/our-study/make_cs_possible)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/our-study/make_cs_possible/blob/main/LICENSE)
 
 
 
@@ -29,9 +29,9 @@
 
 ## 활동 일정
 
-|   내용    | 9월 11일 ~ 10월 11일 |10월 11일 ~
+|   내용    | 10월 11일 ~ 11월 29일 ~ |
 |:---------:|:-------------------:|:----------:|
-| 코딩스터디 | 코딩스터디 |  |
+| 알고리즘스터디 | 알고리즘스터디 |  |
 |    미정   |  | 미정 |
 
 <br>
