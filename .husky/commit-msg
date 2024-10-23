@@ -1,6 +1,3 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
 # 커밋 메시지를 저장한 파일을 변수에 저장
 message="$(cat "$1")"
 
