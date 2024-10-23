@@ -1,1 +1,0 @@
-npx husky run commit-msg "$1"
