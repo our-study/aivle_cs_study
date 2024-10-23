@@ -4,7 +4,7 @@
   "description": "[![Since](https://img.shields.io/badge/since-2024.09.18-333333.svg)](https://github.com/our-study/make_cs_possible)\r [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/our-study/make_cs_possible/blob/main/LICENSE)",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
