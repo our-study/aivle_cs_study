@@ -1,0 +1,2 @@
+echo "pre-commit 훅 테스트 중입니다."
+exit 1
