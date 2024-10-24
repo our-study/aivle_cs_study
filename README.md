@@ -1,6 +1,6 @@
 # 꿈꾸는 개발자의 스터디
 
-[![Since](https://img.shields.io/badge/since-2024.09.18-333333.svg)](https://github.com/our-study/make_cs_possible)
+[![Since](https://img.shields.io/badge/since-2024.10.11-333333.svg)](https://github.com/our-study/make_cs_possible)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/our-study/make_cs_possible/blob/main/LICENSE)
 
 
